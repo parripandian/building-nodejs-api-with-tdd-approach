@@ -1,2 +1,2 @@
-# nodejs-api-with-tdd
-Step By Step Working Repository For NodeJS API Development With Test-Driven Development Approach Book
+## building-nodejs-api-with-tdd-approach
+Step By Step Working Codebase For Building Node.js API with Test-Driven Development Approach Book
